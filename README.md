@@ -19,7 +19,7 @@
 
 ## Visit the Website 
 
-https://bit.ly/dhairyaCOVID 
+https://covid19dhairya.netlify.app/
 
 
 
